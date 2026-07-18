@@ -8,6 +8,5 @@ things that can do:<br>
 6.word repeater<br><br>
 7.games<br>
 8.url<br>
-
 ## librarys
 _os , pygame , time , random , webbrowser , playsound3_
