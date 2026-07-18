@@ -1,10 +1,13 @@
-# tool_mamad
-things that can do:
-1.playing sound and music
-2.time (timer and stopwatch)
-3.windowmaker
-4.random word and number
-5.caculator
-6.word repeater
-7.games
-8.url
+# tool_mamad<br>
+things that can do:<br>
+1.playing sound and music<br>
+2.time (timer and stopwatch)<br>
+3.windowmaker<br>
+4.random word and number<br>
+5.caculator<br>
+6.word repeater<br><br>
+7.games<br>
+8.url<br>
+
+## librarys
+_os , pygame , time , random , webbrowser , playsound3_
