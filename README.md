@@ -1,5 +1,5 @@
 # tool_mamad<br>
-things that can do:<br>
+## things that can do:
 1.playing sound and music<br>
 2.time (timer and stopwatch)<br>
 3.windowmaker<br>
@@ -8,5 +8,5 @@ things that can do:<br>
 6.word repeater<br>
 7.games<br>
 8.url<br>
-## librarys
+### librarys
 _os , pygame , time , random , webbrowser , playsound3_
